@@ -1,0 +1,15 @@
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/bin/Debug/net9.0/Level1AdiniYazdirma
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/bin/Debug/net9.0/Level1AdiniYazdirma.deps.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/bin/Debug/net9.0/Level1AdiniYazdirma.runtimeconfig.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/bin/Debug/net9.0/Level1AdiniYazdirma.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/bin/Debug/net9.0/Level1AdiniYazdirma.pdb
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.AssemblyInfoInputs.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.AssemblyInfo.cs
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.csproj.CoreCompileInputs.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.sourcelink.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/refint/Level1AdiniYazdirma.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.pdb
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/Level1AdiniYazdirma.genruntimeconfig.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level1AdiniYazdirma/obj/Debug/net9.0/ref/Level1AdiniYazdirma.dll
