@@ -1,0 +1,14 @@
+/Users/halenurincedere/Desktop/Sites/16122024/bin/Debug/net9.0/16122024
+/Users/halenurincedere/Desktop/Sites/16122024/bin/Debug/net9.0/16122024.deps.json
+/Users/halenurincedere/Desktop/Sites/16122024/bin/Debug/net9.0/16122024.runtimeconfig.json
+/Users/halenurincedere/Desktop/Sites/16122024/bin/Debug/net9.0/16122024.dll
+/Users/halenurincedere/Desktop/Sites/16122024/bin/Debug/net9.0/16122024.pdb
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.AssemblyInfoInputs.cache
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.AssemblyInfo.cs
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.csproj.CoreCompileInputs.cache
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.dll
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/refint/16122024.dll
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.pdb
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/16122024.genruntimeconfig.cache
+/Users/halenurincedere/Desktop/Sites/16122024/obj/Debug/net9.0/ref/16122024.dll

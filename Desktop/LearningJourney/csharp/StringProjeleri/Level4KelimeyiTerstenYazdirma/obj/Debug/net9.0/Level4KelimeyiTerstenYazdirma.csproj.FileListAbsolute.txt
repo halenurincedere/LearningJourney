@@ -1,0 +1,15 @@
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/bin/Debug/net9.0/Level4KelimeyiTerstenYazdirma
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/bin/Debug/net9.0/Level4KelimeyiTerstenYazdirma.deps.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/bin/Debug/net9.0/Level4KelimeyiTerstenYazdirma.runtimeconfig.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/bin/Debug/net9.0/Level4KelimeyiTerstenYazdirma.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/bin/Debug/net9.0/Level4KelimeyiTerstenYazdirma.pdb
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.AssemblyInfoInputs.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.AssemblyInfo.cs
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.csproj.CoreCompileInputs.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.sourcelink.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/refint/Level4KelimeyiTerstenYazdirma.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.pdb
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/Level4KelimeyiTerstenYazdirma.genruntimeconfig.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level4KelimeyiTerstenYazdirma/obj/Debug/net9.0/ref/Level4KelimeyiTerstenYazdirma.dll

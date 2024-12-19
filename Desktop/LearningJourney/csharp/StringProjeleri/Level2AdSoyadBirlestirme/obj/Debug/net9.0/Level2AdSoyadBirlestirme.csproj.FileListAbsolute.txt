@@ -1,0 +1,15 @@
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/bin/Debug/net9.0/Level2AdSoyadBirlestirme
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/bin/Debug/net9.0/Level2AdSoyadBirlestirme.deps.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/bin/Debug/net9.0/Level2AdSoyadBirlestirme.runtimeconfig.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/bin/Debug/net9.0/Level2AdSoyadBirlestirme.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/bin/Debug/net9.0/Level2AdSoyadBirlestirme.pdb
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.AssemblyInfoInputs.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.AssemblyInfo.cs
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.csproj.CoreCompileInputs.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.sourcelink.json
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/refint/Level2AdSoyadBirlestirme.dll
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.pdb
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/Level2AdSoyadBirlestirme.genruntimeconfig.cache
+/Users/halenurincedere/Desktop/LearningJourney/csharp/StringProjeleri/Level2AdSoyadBirlestirme/obj/Debug/net9.0/ref/Level2AdSoyadBirlestirme.dll
